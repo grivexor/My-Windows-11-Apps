@@ -22,6 +22,7 @@ Apps I use in windows 11
 - [CamScanner](https://www.camscanner.com/download)
 - [Droidcam](https://droidcam.app/)
 - [File-Pilot(File Manager)](https://filepilot.tech/)
+- [Files](https://github.com/files-community/files/)
 - [Caffiene](https://www.zhornsoftware.co.uk/caffeine/#download)
 ## __Educational Apps__
 - [Office Tool Plus  __(For Microsoft 365/Office)__](https://www.officetool.plus/introduction/download.html)
