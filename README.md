@@ -16,9 +16,13 @@ Apps I use in windows 11
 - [NMS Kontho](https://nabil-bot.github.io/Kontho/)
 ## __Utils__
 - [Blip](https://blip.net/download)
+- [LocalSend](https://localsend.org/download)
 - [Cashew __(Web-App__)](https://cashewapp.web.app/)
+- [Dropshelf](https://apps.microsoft.com/detail/9mzpc6p14l7n?hl=en-US&gl=BD)
 - [CamScanner](https://www.camscanner.com/download)
 - [Droidcam](https://droidcam.app/)
+- [File-Pilot(File Manager)](https://filepilot.tech/)
+- [Caffiene](https://www.zhornsoftware.co.uk/caffeine/#download)
 ## __Educational Apps__
 - [Office Tool Plus  __(For Microsoft 365/Office)__](https://www.officetool.plus/introduction/download.html)
 - [Draw.io __(Flowchart)__](https://www.drawio.com/)
