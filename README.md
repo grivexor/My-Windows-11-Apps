@@ -20,6 +20,7 @@ Apps I use in windows 11
 - [Files](https://github.com/files-community/files/)
 - [One Commander](https://onecommander.com/download)
 - [Caffiene](https://www.zhornsoftware.co.uk/caffeine/#download)
+- [Affinity](https://www.affinity.studio/download)
 ## __Educational Apps__
 - [Office Tool Plus  __(For Microsoft 365/Office)__](https://www.officetool.plus/introduction/download.html)
 - [Draw.io __(Flowchart)__](https://www.drawio.com/)
