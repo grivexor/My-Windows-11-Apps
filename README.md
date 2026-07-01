@@ -28,9 +28,7 @@ Apps I use in windows 11
 - [Note 3 (in my drive)]
 ## __Blocker and Time Management__
 - [Cold Turkey Blocker](https://ma-x.org/2025/05/20/cold-turkey-v4-7-cracked-by-abo-jamal/)
-- [Priospace](https://prio.space/home)
 - [Super Productivity](https://super-productivity.com/)
-- [Focus To DO](https://www.focustodo.cn/#products)
 
 ## Windows Enhancement Utility
 - [Winhance](https://winhance.net/)
@@ -60,7 +58,6 @@ Apps I use in windows 11
 ## __Games and Game Launcher__
 - [Steam](https://store.steampowered.com/about/)
 - [Epic Game](https://store.epicgames.com/download?lang=en-US)
-- [Prism Launcher](https://prismlauncher.org/download/windows/)
 - [Voidstrap](https://github.com/voidstrap/Voidstrap/releases)
 # Coding
 
@@ -74,7 +71,7 @@ Apps I use in windows 11
 # Winhance External Software Settings
 
 ## Browsers
-- Thorium
+__None__
 ## Compression
 - 7-Zip
 - WinRAR
@@ -117,6 +114,8 @@ __None_
 ## Runtime & Dependencies
 __All__
 ## Layout & Extension
+- Desktop Layout
 ![Desktop Layout](https://github.com/grivexor/My-Windows-11-Apps/blob/main/Desktop%20Layout.jpeg?raw=true)
+- Extension
 ![Extension](https://github.com/grivexor/My-Windows-11-Apps/blob/main/Extension.jpeg?raw=true)
 
