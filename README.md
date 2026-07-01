@@ -114,8 +114,10 @@ __None_
 ## Runtime & Dependencies
 __All__
 ## Layout & Extension
-- Desktop Layout
+- __Desktop Layout__
+
 ![Desktop Layout](https://github.com/grivexor/My-Windows-11-Apps/blob/main/Desktop%20Layout.jpeg?raw=true)
-- Extension
+- __Extension__
+
 ![Extension](https://github.com/grivexor/My-Windows-11-Apps/blob/main/Extension.jpeg?raw=true)
 
