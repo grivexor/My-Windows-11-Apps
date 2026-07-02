@@ -39,6 +39,7 @@ Apps I use in windows 11
 - [Sparkle](https://github.com/thedogecraft/sparkle)
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer)
 - [qBittorent](https://www.qbittorrent.org/download)
+- [Free Download Manager](https://www.freedownloadmanager.org/)
 - [UrbanVPN](https://www.urban-vpn.com/free-products/free-windows-vpn/)
 - [Eclipse Temurin JDK](https://adoptium.net/temurin/releases)
 - [Azul Zulu JDK](https://www.azul.com/downloads/?version=java-24&show-old-builds=true#zulu)
