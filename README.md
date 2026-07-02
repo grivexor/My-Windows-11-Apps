@@ -50,6 +50,7 @@ Apps I use in windows 11
 - [Whatsapp](https://www.whatsapp.com/download)
 - [Whatsapp BETA](https://apps.microsoft.com/detail/9nbdxk71nk08?hl=en-US&gl=BD)
 - [Discord](https://discord.com/)
+- [Vencord](https://vencord.dev/download/#windows)
 ## __Browser__
 - [Helium __(Main)__](https://helium.computer/)
 - [Brave    (When Working)](https://brave.com/download/)
