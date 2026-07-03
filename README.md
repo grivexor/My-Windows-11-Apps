@@ -44,6 +44,7 @@ Apps I use in windows 11
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
 - [Eclipse Temurin JDK](https://adoptium.net/temurin/releases)
 - [Azul Zulu JDK](https://www.azul.com/downloads/?version=java-24&show-old-builds=true#zulu)
+- [Windows 11 Emoji](https://github.com/samuelngs/apple-emoji-ttf)
 ## __Media__
 - [PotPlayer](https://potplayer.tv/)
 - [Parabolic](https://github.com/nickvisionapps/parabolic)
