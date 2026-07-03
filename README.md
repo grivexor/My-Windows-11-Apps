@@ -41,6 +41,7 @@ Apps I use in windows 11
 - [qBittorent](https://www.qbittorrent.org/download)
 - [Free Download Manager](https://www.freedownloadmanager.org/)
 - [UrbanVPN](https://www.urban-vpn.com/free-products/free-windows-vpn/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
 - [Eclipse Temurin JDK](https://adoptium.net/temurin/releases)
 - [Azul Zulu JDK](https://www.azul.com/downloads/?version=java-24&show-old-builds=true#zulu)
 ## __Media__
