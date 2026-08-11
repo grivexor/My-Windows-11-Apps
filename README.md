@@ -9,10 +9,12 @@ Apps I use in windows 11
 ## __PDF VIEWER & Scanner__
 - [Adobe Acrobat Pro DC](https://filecr.com/windows/adobe-acrobat-pro-dc-0054/?id=251500576000)
 - [PDFGear](https://www.pdfgear.com/download/)
+
 ## __Bangla Keyboard__
 - [Avro Keyboard](https://www.omicronlab.com/avro-keyboard-download.html)
 - Bijoy Bayanno __(In My Portable Drive)__
 - [NMS Kontho](https://nabil-bot.github.io/Kontho/)
+
 ## __Utils__
 - [Blip](https://blip.net/download)
 - [Dropshelf](https://apps.microsoft.com/detail/9mzpc6p14l7n?hl=en-US&gl=BD)
@@ -21,11 +23,17 @@ Apps I use in windows 11
 - [One Commander](https://onecommander.com/download)
 - [Caffiene](https://www.zhornsoftware.co.uk/caffeine/#download)
 - [Affinity](https://www.affinity.studio/download)
+
+## __Audio__
+-[Voicemeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)
+-[Equalizer APO](https://equalizerapo.com/)
+
 ## __Educational Apps__
 - [Office Tool Plus  __(For Microsoft 365/Office)__](https://www.officetool.plus/introduction/download.html)
 - [Draw.io __(Flowchart)__](https://www.drawio.com/)
 - [fx-991EX Emulator](https://education.casio.co.uk/emulator/download-emulator-software/)
 - [Note 3 (in my drive)]
+
 ## __Blocker and Time Management__
 - [Cold Turkey Blocker](https://ma-x.org/2025/05/20/cold-turkey-v4-7-cracked-by-abo-jamal/)
 - [Super Productivity](https://super-productivity.com/)
@@ -47,22 +55,25 @@ Apps I use in windows 11
 
 ##__System Font__
 - [Windows 11 Emoji](https://github.com/samuelngs/apple-emoji-ttf)
-- [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
-- [Winaero Tweaker](https://winaero.com/winaero-tweaker/#download)
+
 ## __Media__
 - [PotPlayer](https://potplayer.tv/)
 - [Parabolic](https://github.com/nickvisionapps/parabolic)
+
 ## __Chat__
 - [Whatsapp](https://www.whatsapp.com/download)
 - [Whatsapp BETA](https://apps.microsoft.com/detail/9nbdxk71nk08?hl=en-US&gl=BD)
 - [Discord](https://discord.com/)
 - [Vencord](https://vencord.dev/download/#windows)
+
 ## __Browser__
 - [Helium __(Main)__](https://helium.computer/)
 - [Brave    (When Working)](https://brave.com/download/)
+
 ## __Security__
 - [Proton Pass](https://proton.me/pass/download/windows)
 - [Ente Auth](https://ente.com/auth/)
+
 ## __Games and Game Launcher__
 - [Steam](https://store.steampowered.com/about/)
 - [Epic Game](https://store.epicgames.com/download?lang=en-US)
