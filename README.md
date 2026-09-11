@@ -133,7 +133,15 @@ __None_
 ## Runtime & Dependencies
 __All__
 ## Layout & Extension
-- __Desktop Layout__
-
-![Desktop Layout](https://github.com/grivexor/My-Windows-11-Apps/blob/main/Desktop%20Layout.jpeg?raw=true)
+- __Extension__
+- AdGuard AdBlocker
+- Google Translate
+- Hover Zoom+
+- Proton Pass
+- SongFinder
+- Tampermonkey
+- Unhook
+- UnTrap for YouTube
+- YouTube Original Audio Track
+- YouTube Timestamp Helper
 
